@@ -1,0 +1,6 @@
+apache-airflow
+urllib3==1.26.6
+kafka-python
+cassandra-driver
+spark
+pyspark
