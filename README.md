@@ -1,4 +1,4 @@
-# Realtime User Data Streaming || Emd-to-End data pipeline
+# Realtime User Data Streaming || End-to-End data pipeline
 
 ## Introduction
 
